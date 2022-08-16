@@ -1,0 +1,15 @@
+{
+	"theme_name": "W3",
+	"theme_author": "w3w3w3",
+
+	"embed": {
+		"color": "0x86BC04",
+		"image": "https://yt3.ggpht.com/NXN2c14ZASKLHIjSKH0sL1PZTXfrneoJNFD0e4dTVGAzp2vCh2_yh5GokhqZ4LHeFBbYLfOmkvQ=w1060-fcrop64=1",
+		"thumbnail": "https://i.pinimg.com/originals/38/b8/a1/38b8a1f016a0d354850c831eb3548092.jpg",
+		"footer": "https://www.youtube.com/w3w3w3",
+		"footer_icon": "https://yt3.ggpht.com/ytc/AKedOLQwDTHsXgId2hwuqvkyDuU86lPeWLIsmpw64un-=s176-c-k-c0x00ffffff-no-rj"
+	},
+	"console": {
+		"color": "green"
+	}
+}

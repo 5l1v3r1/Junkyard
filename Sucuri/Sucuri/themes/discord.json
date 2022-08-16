@@ -1,0 +1,15 @@
+{
+	"theme_name": "Discord",
+	"theme_author": "Nexus",
+
+	"embed": {
+		"color": "0x7289DA",
+		"image": "https://th.wallhaven.cc/lg/ox/ox1k7p.jpg",
+		"thumbnail": "https://cdn.freebiesupply.com/logos/large/2x/discord-logo-png-transparent.png",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://maxcdn.icons8.com/Share/icon/Logos/discord_logo1600.png"
+	},
+	"console": {
+		"color": "lightblue"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"theme_name": "nHentai",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0xEC2754",
+		"image": "https://pbs.twimg.com/profile_banners/2593344481/1623340257/1080x360",
+		"thumbnail": "https://clipground.com/images/nhentai-logo.jpg",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://clipground.com/images/nhentai-logo.jpg"
+	},
+	"console": {
+		"color": "red"
+	}
+}

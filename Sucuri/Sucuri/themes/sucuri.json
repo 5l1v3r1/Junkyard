@@ -1,0 +1,15 @@
+{
+	"theme_name": "Sucuri",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0x800020",
+		"image": "https://i.ibb.co/m8Hv5MZ/standard.gif",
+		"thumbnail": "https://i.ibb.co/L5jcQcn/standard-1.gif",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://i.ibb.co/L5jcQcn/standard-1.gif"
+	},
+	"console": {
+		"color": "red"
+	}
+}

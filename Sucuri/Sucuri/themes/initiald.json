@@ -1,0 +1,15 @@
+{
+	"theme_name": "Initial D",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0x000000",
+		"image": "https://wallpapertag.com/wallpaper/full/b/5/4/426115-popular-wallpaper-initial-d-1920x1080.jpg",
+		"thumbnail": "https://i1.wp.com/www.animeland.fr/wp-content/uploads/2018/04/initiald01.jpg?fit=1920%2C1080g",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://cdn.wallpapersafari.com/93/93/yB09NH.jpg"
+	},
+	"console": {
+		"color": "darkgrey"
+	}
+}

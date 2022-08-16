@@ -1,0 +1,10 @@
+py-cord
+colorama
+json
+requests
+brotlipy
+cchardet
+orjson
+subprocess
+psutil
+pygame

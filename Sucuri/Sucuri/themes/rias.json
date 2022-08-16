@@ -1,0 +1,15 @@
+{
+	"theme_name": "Rias 1 (SFW)",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0x800000",
+		"image": "https://i.pinimg.com/474x/b7/5f/6e/b75f6e2769cbe166eec17a3a127b3989--anime-high-school-high-schools.jpg",
+		"thumbnail": "https://2.bp.blogspot.com/-nGHh-NRA9eU/WxaKBxVPiwI/AAAAAAAABLs/wscMh6DJRnoUYN2jAibblp_pp6JrlF0vACLcBGAs/s320/previewfile_937145987.jpg",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://i.pinimg.com/originals/3e/1d/2f/3e1d2f8c2ae6b7972b921d78a479f1f9.png"
+	},
+	"console": {
+		"color": "red"
+	}
+}

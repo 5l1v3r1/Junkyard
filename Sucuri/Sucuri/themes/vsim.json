@@ -1,0 +1,15 @@
+{
+	"theme_name": "Vs1m",
+	"theme_author": "Vsim",
+
+	"embed": {
+	   "color": "0x00A5FF",
+	   "image": "https://wallpapercave.com/wp/wp8221541.png",
+	   "thumbnail": "https://en.memesrandom.com/wp-content/uploads/2021/01/20200724-camie-my-hero-academia.jpeg",
+	   "footer": "\u2665 UwU kawaiii \u2665",
+	   "footer_icon": "https://64.media.tumblr.com/3e689c1047d2a50bfa330d1bbeca27d2/6e7f9a586f5fe567-48/s1280x1920/00bced724982bba778d6b8fbfe334bccc8beada7.jpg"
+	},
+	"console": {
+		"color": "lightblue"
+	}
+ }

@@ -1,0 +1,15 @@
+{
+	"theme_name": "Aqua",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0x33CBDC",
+		"image": "https://images8.alphacoders.com/790/thumb-350-790834.png",
+		"thumbnail": "https://s1.zerochan.net/Aqua.(KonoSuba).600.3048560.jpg",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://i.pinimg.com/736x/cd/53/b0/cd53b02aec22e034be15c42d81fea760.jpg"
+	},
+	"console": {
+		"color": "cyan"
+	}
+}

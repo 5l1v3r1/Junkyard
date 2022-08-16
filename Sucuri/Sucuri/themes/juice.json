@@ -1,0 +1,15 @@
+{
+	"theme_name": "JuiceWrld",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0x000000",
+		"image": "https://th.wallhaven.cc/lg/zm/zm2w5v.jpg",
+		"thumbnail": "https://i1.wp.com/wallpapercave.com/wp/wp5068627.jpg",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://assets.audiomack.com/saucindipp/e2ce302141cfd12bc5620f34f38c3562c236640fe280fba2f77eac9929d0f03c.jpeg?width=1000&height=1000&max=true"
+	},
+	"console": {
+		"color": "red"
+	}
+}

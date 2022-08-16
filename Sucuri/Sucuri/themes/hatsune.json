@@ -1,0 +1,15 @@
+{
+	"theme_name": "Hatsune Miku",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0x86cecb",
+		"image": "https://cdn.wallpapersafari.com/31/71/mMjtX2.jpg",
+		"thumbnail": "https://cdn.awwni.me/1bnn3.jpg",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "http://images6.fanpop.com/image/photos/35800000/Hatsune-Miku-icon-hatsune-miku-35897216-100-100.png"
+	},
+	"console": {
+		"color": "lightcyan"
+	}
+}

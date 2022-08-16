@@ -1,0 +1,15 @@
+{
+	"theme_name": "Drift",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0x000000",
+		"image": "https://cdn.wallpapersafari.com/52/60/EULKSd.jpg",
+		"thumbnail": "https://gif-avatars.com/img/150x150/drift.gif",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://www.focusrs.org/attachments/rs-drift-png.46218/"
+	},
+	"console": {
+		"color": "red"
+	}
+}

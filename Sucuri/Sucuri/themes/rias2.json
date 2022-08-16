@@ -1,0 +1,15 @@
+{
+	"theme_name": "Rias 2 (NSFW)",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0x800000",
+		"image": "https://static.zerochan.net/Rias.Gremory.full.1774247.jpg",
+		"thumbnail": "https://2.bp.blogspot.com/-Pg4lK8P3-sA/XK6ff9Q-uZI/AAAAAAAA1ns/p-SbYlB_3iUzQpWuBWX-rsyWjjAHwEj7wCLcBGAs/w7000/High%2BSchool%2BDxD%2B-%2BRias%2BGremory%2BRender%2B291.png",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://i.pinimg.com/originals/3e/1d/2f/3e1d2f8c2ae6b7972b921d78a479f1f9.png"
+	},
+	"console": {
+		"color": "red"
+	}
+}

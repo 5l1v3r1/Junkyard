@@ -1,0 +1,15 @@
+{
+	"theme_name": "Astolfo",
+	"theme_author": "Nexus",
+	
+	"embed": {
+		"color": "0xffc0cb",
+		"image": "https://images5.alphacoders.com/858/thumb-350-858972.jpg",
+		"thumbnail": "https://loginportal.funnyjunk.com/pictures/Valentine+astolfo_fdf5a3_7544823.jpg",
+		"footer": "Sucuri Selfbot | Made by Nexus",
+		"footer_icon": "https://64.media.tumblr.com/25e146d96f71664f75ca693f79b09bfe/tumblr_pic6tt2iMO1xxqnwoo2_500.jpg"
+	},
+	"console": {
+		"color": "pink"
+	}
+}
